@@ -23,6 +23,7 @@ Un pipeline automatizado ETL (Extract, Transform, Load) para limpieza y preparac
 - **FPDF** - Generación de reportes PDF
 
 📊 Sobre los Datos
+
 Este proyecto utiliza el Heart Failure Clinical Records Dataset de Kaggle.
 
 Para uso completo:
